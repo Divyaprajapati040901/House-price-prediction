@@ -1,0 +1,13 @@
+House Price Prediction
+
+
+This project uses machine learning models to predict house prices based on various features such as location, square footage, number of bedrooms, etc. The models employed include Linear Regression, Gradient Boosting, XGBoost, and Random Forest Regressor. Among these, Gradient Boosting provided the best results in terms of predictive accuracy. Key data preprocessing steps include handling missing values, removing irrelevant columns, cleaning the dataset, and managing date-related features using DateTime. The models are evaluated based on performance metrics like Mean Squared Error (MSE) and R-squared.
+
+Key Features:
+
+Data collection and cleaning
+Handling missing values and irrelevant columns
+Managing date features with DateTime
+Feature engineering and transformation
+Model selection and evaluation using Linear Regression, Gradient Boosting, XGBoost, and Random Forest Regressor
+Gradient Boosting providing superior performance
